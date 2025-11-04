@@ -11,3 +11,6 @@ Welcome! I'm a Statistics graduate from UiTM with hands-on experience in data an
 - **Tableau** – Dashboard visualization and insights reporting
 
 **Folder**: [E-Commerce Pricing Discount Analysis](https://github.com/syahmikk43-jpg/E-Commerce-Pricing-Discount-Analysis)
+
+---
+*(More projects will be added soon.)*
