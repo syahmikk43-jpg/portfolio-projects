@@ -7,4 +7,4 @@ Welcome! I'm a Statistics graduate from UiTM with hands-on experience in data an
 ### 1. E-Commerce Price & Discount Analysis
 **Description**: Analyzing product pricing, discounts, and RRP across multiple brands and categories.
 - **Tools**: Excel, Tableau
-- **Files**: [E-Commerce Pricing Discount Analysis](https://github.com/syahmikk43-jpg/E-Commerce-Pricing-Discount-Analysis)
+- **Folder**: [E-Commerce Pricing Discount Analysis](https://github.com/syahmikk43-jpg/E-Commerce-Pricing-Discount-Analysis)
