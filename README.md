@@ -1,4 +1,4 @@
-# 📊 Muhammad Syahmi Data Portfolio
+# 📊 Muhammad Syahmi - Data Portfolio
 
 Welcome! I'm a Statistics graduate from UiTM with hands-on experience in data analysis, Excel reporting, and research work. This portfolio showcasing data exploration, analysis and visualisation.
 
