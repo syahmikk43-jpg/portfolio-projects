@@ -7,7 +7,7 @@ Turning data into actionable insights to support business decisions across indus
 ### 1. E-Commerce Price & Discount Analysis
 **Description**: Analyzing product pricing, discounts, and RRP across multiple brands and categories.
 
-- **Tools Used:** Excel (Power Query) and Tableau.
+- **Tools Used:** Excel (Power Query) and Tableau Public.
 
 - **Folder**: [E-Commerce Pricing Discount Analysis](https://github.com/syahmikk43-jpg/E-Commerce-Pricing-Discount-Analysis)
 
