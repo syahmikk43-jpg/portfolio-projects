@@ -9,7 +9,7 @@ Turning data into actionable insights to support business decisions across indus
 
 - **Tools Used:** PostgreSQL and Power BI.
 
-- **Folder**: [Marketing Campaign Performance Analysis]()
+- **Folder**: [Marketing Campaign Performance Analysis](https://github.com/syahmikk43-jpg/Marketing-Campaign-Performance-Analysis)
 
 ### E-Commerce Price & Discount Analysis
 **Description**: Analysing product pricing, discounts, and RRP across multiple brands and categories.
